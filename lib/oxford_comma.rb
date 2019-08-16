@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  array.split("#{list}")
+  array.split(",")
   end 
   return new_list
 end
